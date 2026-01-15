@@ -61,9 +61,13 @@ Currently focused on **Python, Data Structures, Backend concepts, and real-world
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavanuruRohithRoy&show_icons=true&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavanuruRohithRoy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavanuruRohithRoy&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavanuruRohithRoy)
+
+
+
+
 
 ---
 
