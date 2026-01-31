@@ -82,8 +82,7 @@ Currently focused on **Python, Data Structures, Backend concepts, and real-world
 ---
 
 ## 🤝 Let’s Connect
-
-- 💼 GitHub: https://github.com/LavanuruRohithRoy 
+ 
 - 📧 Email: rohithroy1607@gmail.com  
 - 🌐 LinkedIn: www.linkedin.com/in/lavanuru-rohith
 
