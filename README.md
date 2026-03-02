@@ -1,91 +1,162 @@
-# 👋 Hi, I'm Rohith (Roy)
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Rohith Roy</h1>
 
-🚀 Aspiring Software Engineer | Python Developer | Problem Solver  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Python+Developer;Backend+%26+Systems+Focused;DSA+Enthusiast;Building+Depth+Over+Hype" />
+</p>
 
-I’m passionate about building clean, scalable software and continuously improving my problem-solving skills.  
-Currently focused on **Python, Data Structures, Backend concepts, and real-world project development**.
+<p align="center">
+  <a href="mailto:rohithroy1607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lavanuru-rohith">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LavanuruRohithRoy&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Identity
 
-- 🎓 Engineering student with strong interest in **Software Development**
-- 🐍 Primary language: **Python**
-- 🧩 Love solving **DSA problems** and understanding systems deeply
-- 🔍 Curious about **how things work under the hood**
-- 📈 Goal: Become a **solid, industry-ready Software Engineer**
+I focus on writing **structured, maintainable, logically sound software**.
+
+My approach:
+- Understand system behavior before implementation
+- Prioritize fundamentals over shortcuts
+- Write code that is readable, testable, and scalable
+- Build depth in core Computer Science principles
+
+I am working toward becoming a **backend-oriented, systems-aware software engineer**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### Languages
-- Python 🐍  
-- C  
-- SQL (Basics)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql" />
+</p>
 
-### Core Concepts
+### ⚙️ Tools & Automation
+
+<p>
+  <!-- Supported by skillicons -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+</p>
+
+<p>
+  <!-- Custom Badges -->
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Automation-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Local_LLM_Workflows-222222?style=for-the-badge"/>
+</p>
+
+### 📚 Core CS Foundations
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- Problem Solving  
-- Git & GitHub  
-
-### Backend / Tools (Learning & Using)
-- Python Standard Libraries  
+- Complexity Analysis  
+- Version Control (Git internals understanding)  
 - REST API fundamentals  
-- Git, GitHub  
-- Linux basics  
 
 ---
 
-## 📌 What I'm Currently Working On
+## 🔍 Current Focus Areas
 
-- Strengthening **DSA & logic building**
-- Writing **clean, readable, testable Python code**
-- Building **mini-projects** to apply concepts
-- Learning **backend architecture & system design basics**
-
----
-
-## 🧪 Projects
-
-> ⚠️ Projects will be updated regularly  
-
-- 🔹 **Major Academic Project** – Requirement collection, design & implementation  
-- 🔹 Python-based utility scripts  
-- 🔹 DSA practice implementations  
-
-📌 *Check repositories for detailed code & documentation.*
+- Advanced problem solving (DSA depth)
+- Backend development principles
+- API structure & request lifecycle understanding
+- Clean architecture thinking
+- System design basics
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 Project Orientation
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavanuruRohithRoy)
+Instead of superficial builds, I focus on:
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavanuruRohithRoy)
+- Requirement analysis before coding  
+- Logical structuring of modules  
+- Clean separation of concerns  
+- Proper documentation  
 
-
-
-
+Projects include:
+- Academic Major Project (Requirement engineering → design → implementation)
+- Python automation scripts
+- DSA implementations from scratch
+- Backend learning experiments
 
 ---
 
-## 🧭 Learning Philosophy
+## 🤖 AI & Local LLM Engineering
 
-> “Don’t just make it work — understand **why** it works.”
+- Local LLM execution via Ollama
+- Autonomous workflow experimentation
+- n8n automation pipelines
+- Offline AI sample generation & testing
+- Workflow orchestration concepts
 
-- Focus on fundamentals over shortcuts  
-- Prefer clarity over complexity  
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavanuruRohithRoy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavanuruRohithRoy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavanuruRohithRoy&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LavanuruRohithRoy&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LavanuruRohithRoy/LavanuruRohithRoy/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Professional Growth Roadmap
+
+- Backend Framework Mastery  
+- Database Design & Query Optimization  
+- Authentication & Security Concepts  
+- Scalable System Design  
+- Open Source Contributions  
+
+---
+
+## 🧭 Engineering Philosophy
+
+> “Clarity in thought produces clarity in code.”
+
+- Depth > Trend  
+- Architecture > Syntax  
 - Consistency > Motivation  
+- Discipline > Excitement  
 
 ---
 
-## 🤝 Let’s Connect
- 
-- 📧 Email: rohithroy1607@gmail.com  
-- 🌐 LinkedIn: www.linkedin.com/in/lavanuru-rohith
+## 🤝 Connect
+
+📧 rohithroy1607@gmail.com  
+🔗 https://www.linkedin.com/in/lavanuru-rohith  
 
 ---
 
-⭐ If you like my work, consider giving a star — it motivates me to build more!
+⭐ If you appreciate structured engineering work, consider starring a repository.
