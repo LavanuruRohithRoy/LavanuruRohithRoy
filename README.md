@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Roy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Python+Developer;Backend+%26+Systems+Focused;DSA+Enthusiast;Building+Depth+Over+Hype" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+Developer;Backend+%26+Systems+Focused;DSA+Enthusiast;" />
 </p>
 
 <p align="center">
