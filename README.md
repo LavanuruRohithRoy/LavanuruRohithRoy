@@ -69,8 +69,8 @@ I build software with a systems lens: resource-aware architecture, disciplined e
 
 | Project | System Design Focus | Core Stack |
 |---|---|---|
-| **Enterprise Email Orchestration Platform** | Scalable RBAC infrastructure with Redis-backed distributed workers and reliable AWS SQS delivery | Python, FastAPI/Flask, Redis, AWS SQS, JWT |
-| **Autonomous AI Video Pipeline** | Local autonomous YouTube synthesis pipeline with agentic orchestration and media generation stages | Ollama, n8n, Stable Diffusion, Python, Linux |
+| **Enterprise Email Orchestration Platform** | RBAC-based email orchestration with Redis-backed distributed workers and AWS SQS message delivery | Python, FastAPI/Flask, Redis, AWS SQS, JWT |
+| **Autonomous AI Video Pipeline** | Local autonomous YouTube synthesis pipeline with multi-stage workflow orchestration and media generation | Ollama, n8n, Stable Diffusion, Python, Linux |
 | **Semantic Code Plagiarism Detector** | High-speed semantic retrieval service for sub-second code similarity search | CodeBERT, FAISS, Python, vector indexing |
 
 ---
