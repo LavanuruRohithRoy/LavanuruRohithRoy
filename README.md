@@ -1,162 +1,105 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Rohith Roy</h1>
+<h1 align="center">Lavanuru Rohith Roy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+Developer;Backend+%26+Systems+Focused;DSA+Enthusiast;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&center=true&vCenter=true&width=920&lines=Software+Engineer;Backend+Developer;AI+Engineer;Systems+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:rohithroy1607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lavanuru-rohith">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=LavanuruRohithRoy&style=for-the-badge&color=blue" />
+  <a href="mailto:rohithroy1607@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/lavanuru-rohith"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=LavanuruRohithRoy&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AVAILABLE_FOR_OPPORTUNITIES-OPEN-111111?style=for-the-badge&logo=target&logoColor=white" alt="Available for Opportunities" />
+</p>
+
+<p align="center">
+  <strong>Open to Software Engineering, Backend Engineering, Systems Engineering, and AI/ML roles.</strong><br/>
+  Building production-first systems with strong architecture, reliability, and resource-aware design.
 </p>
 
 ---
 
-## 🧠 Engineering Identity
+## Engineering Identity
 
-I focus on writing **structured, maintainable, logically sound software**.
+I build software with a systems lens: resource-aware architecture, disciplined execution, and production-grade backend engineering.
 
-My approach:
-- Understand system behavior before implementation
-- Prioritize fundamentals over shortcuts
-- Write code that is readable, testable, and scalable
-- Build depth in core Computer Science principles
+**Core philosophy:** The Physics of Computing — low-level resource management, system-level architecture, and technical rigor over abstraction-first development.
 
-I am working toward becoming a **backend-oriented, systems-aware software engineer**.
+**Mantra:**
+- Architecture > Syntax
+- Consistency > Motivation
+- Discipline > Excitement
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Ecosystem
 
-### 💻 Languages
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,flask,redis,mysql,linux,bash,docker" alt="Backend Skills" />
 </p>
 
-### ⚙️ Tools & Automation
+- Languages: Python, SQL, TypeScript, Bash
+- Systems: FastAPI, Flask, Redis, asynchronous task queues (AWS SQS)
+- Security: RBAC, JWT
 
+### AI
 <p>
-  <!-- Supported by skillicons -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,linux" alt="AI Skills" />
 </p>
 
+- Local LLM orchestration with Ollama
+- Vector retrieval with FAISS
+- Semantic modeling with CodeBERT
+- Signal processing workflows
+
+### Cloud
 <p>
-  <!-- Custom Badges -->
-  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Automation-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Local_LLM_Workflows-222222?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" alt="Cloud Skills" />
 </p>
 
-### 📚 Core CS Foundations
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Complexity Analysis  
-- Version Control (Git internals understanding)  
-- REST API fundamentals  
+- AWS: SQS, SES, SNS, S3(Obj storing)
+- Azure: Docker Containerized apps
+- CI/CD with GitHub Actions
+- Linux-first development environment (WSL)
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,bash,typescript" alt="Languages" />
+</p>
 
 ---
 
-## 🔍 Current Focus Areas
+## Featured Projects
 
-- Advanced problem solving (DSA depth)
-- Backend development principles
-- API structure & request lifecycle understanding
-- Clean architecture thinking
-- System design basics
-
----
-
-## 🧪 Project Orientation
-
-Instead of superficial builds, I focus on:
-
-- Requirement analysis before coding  
-- Logical structuring of modules  
-- Clean separation of concerns  
-- Proper documentation  
-
-Projects include:
-- Academic Major Project (Requirement engineering → design → implementation)
-- Python automation scripts
-- DSA implementations from scratch
-- Backend learning experiments
+| Project | System Design Focus | Core Stack |
+|---|---|---|
+| **Enterprise Email Campaign Platform** | RBAC-based email orchestration with Redis-backed distributed workers and AWS SQS message delivery | Python, FastAPI/Flask, Redis, AWS SQS, JWT |
+| **Autonomous AI Video Pipeline** | Local autonomous YouTube synthesis pipeline with multi-stage workflow orchestration and media generation | Ollama, n8n, Stable Diffusion, Python, Linux |
+| **Semantic Code Plagiarism Detector** | High-speed semantic retrieval service for sub-second code similarity search | CodeBERT, FAISS, Python, vector indexing |
 
 ---
 
-## 🤖 AI & Local LLM Engineering
-
-- Local LLM execution via Ollama
-- Autonomous workflow experimentation
-- n8n automation pipelines
-- Offline AI sample generation & testing
-- Workflow orchestration concepts
-
----
-
-## 📊 GitHub Metrics
+## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LavanuruRohithRoy&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LavanuruRohithRoy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavanuruRohithRoy&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanuruRohithRoy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LavanuruRohithRoy&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=LavanuruRohithRoy&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LavanuruRohithRoy&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/LavanuruRohithRoy/LavanuruRohithRoy/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LavanuruRohithRoy/LavanuruRohithRoy/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Professional Growth Roadmap
-
-- Backend Framework Mastery  
-- Database Design & Query Optimization  
-- Authentication & Security Concepts  
-- Scalable System Design  
-- Open Source Contributions  
-
----
-
-## 🧭 Engineering Philosophy
-
-> “Clarity in thought produces clarity in code.”
-
-- Depth > Trend  
-- Architecture > Syntax  
-- Consistency > Motivation  
-- Discipline > Excitement  
-
----
-
-## 🤝 Connect
-
-📧 rohithroy1607@gmail.com  
-🔗 https://www.linkedin.com/in/lavanuru-rohith  
-
----
-
-⭐ If you appreciate structured engineering work, consider starring a repository.
