@@ -21,6 +21,16 @@
 
 ---
 
+### ELUSOC 2026 Badges!
+
+<a href="https://edulinkup.dev/elusoc/profile/LavanuruRohithRoy">
+  <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
+ 
+  <img src="https://edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
+</a>
+
+---
+
 ## ⚡ Engineering Philosophy
 
 I approach software through a systems lens: resource-aware design, disciplined execution, and resilient infrastructure.
