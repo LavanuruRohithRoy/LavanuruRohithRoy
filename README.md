@@ -21,7 +21,7 @@
 
 ---
 
-### ELUSOC 2026 Badges!
+### Badges!
 
 <a href="https://edulinkup.dev/elusoc/profile/LavanuruRohithRoy">
   <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
