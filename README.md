@@ -27,6 +27,8 @@
   <img src="https://edulinkup.dev/elusoc/images/ticket/spawnling.png" width="60" alt="Spawnling" />
  
   <img src="https://edulinkup.dev/elusoc/images/ticket/stone_coder.png" width="60" alt="Stone Coder" />
+  <img
+src="https://edulinkup.dev/elusoc/images/ticket/iron_developer.png" width="60" alt="Iron Developer" />
 </a>
 
 ---
